@@ -1,4 +1,4 @@
-import { createBrowserRouter } from "react-router-dom";
+import { createBrowserRouter , createHashRouter } from "react-router-dom";
 import Login from "./src/components/login/Login";
 import Home from "./src/components/home/Home";
 import Register from "./src/components/register/Register";
@@ -12,7 +12,7 @@ import Baby from "./src/components/baby/Baby";
 import Accessories from "./src/components/accessories/Accessories";
 import HomeProducts from "./src/components/homeproducts/HomeProducts";
 
-const router = createBrowserRouter([
+const router = createHashRouter ([
     {
         path: "/",
         element: <MainLayout/>,
