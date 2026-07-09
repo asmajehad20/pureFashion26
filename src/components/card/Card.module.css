@@ -7,6 +7,7 @@
     color:rgb(29, 31, 31);
     font-size: 20px;
     font-weight: 500;
+    
 }
 
 .card img{
@@ -14,6 +15,7 @@
     height: 260px;
     border-radius: 50%;
     
+    background-color: rgb(237, 226, 212);
     border-right: 5px solid #fa6101;
     border-bottom: 5px solid #fa6101;
 }
