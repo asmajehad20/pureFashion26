@@ -18,15 +18,3 @@
     border-bottom: 5px solid #fa6101;
 }
 
-@media (max-width: 450px) {
-    .card {
-        font-size: 16px;
-    }
-
-    .card img {
-        width: 100px;
-        height: 110px;
-        border-right: 3px solid #fa6101;
-        border-bottom: 3px solid #fa6101;
-    }
-}
