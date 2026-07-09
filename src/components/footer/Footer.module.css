@@ -1,0 +1,32 @@
+
+.footer{
+    background-color: rgb(29, 31, 31);
+    
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.right{
+    padding: 10px 10px;
+}
+
+.footer a{
+    text-decoration: none;
+    padding:0 8px;
+    color: aliceblue;
+    font-size: 18px;
+}
+
+.logo{
+    width: 70px;
+    height: 70px;
+    margin: 5px 0px;
+}
+
+.logodiv{
+    padding :5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

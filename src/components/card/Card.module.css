@@ -1,0 +1,20 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color:rgb(29, 31, 31);
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.card img{
+    width: 250px;
+    height: 260px;
+    border-radius: 50%;
+    
+    border-right: 5px solid #fa6101;
+    border-bottom: 5px solid #fa6101;
+}
+

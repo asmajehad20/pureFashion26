@@ -1,0 +1,15 @@
+.banner{
+    width: 100%;
+    position: relative;
+}
+.bannerimg{
+    width: 100%;
+    
+}
+.socialFacebook{
+    position: absolute;
+    bottom:-0.5%;
+    left: 1.19%;
+    font-size: 5vw;
+    color: blue;
+}
