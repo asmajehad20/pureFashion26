@@ -13,15 +13,6 @@
 }
 
 @media (max-width: 450px) {
-    .cardList {
-        gap: 5px;
-        justify-content: space-around;
-        align-items: center;
-        text-align: center;
     
-    padding: 0px;
-    
-    flex-wrap: wrap;
-    }
 
 }
